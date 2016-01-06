@@ -1,4 +1,4 @@
-# Title of Your Project Here
+# Solve Dots
 
 
 
@@ -31,3 +31,13 @@ Your specification should **not** include the following types of information:
 * Names of any specific files in the project.
 * How you will structure the classes, functions and code in your program.
 * The name of any files or tools that you will use to design the program.
+* 
+
+Introduction:
+Solve Dots is an app that allows you to cheat in dots. It tells you the best move based on your board. There are currently no dots solvers on the app store despite the app have millions of downloads.
+
+It will be available on the app store.
+
+The graphics are solely apples
+
+
