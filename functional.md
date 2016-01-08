@@ -33,11 +33,19 @@ Your specification should **not** include the following types of information:
 * The name of any files or tools that you will use to design the program.
 * 
 
+
+
 Introduction:
 Solve Dots is an app that allows you to cheat in dots. It tells you the best move based on your board. There are currently no dots solvers on the app store despite the app have millions of downloads.
 
 It will be available on the app store.
 
-The graphics are solely apples
+The graphics are solely the default ui. There is one button that allows the user to select a screenshot.
+
+The program does not respond to mouse or keyboard input.
+
+The only graphical asset is the icon, which I made a high-resolution copy of the real dots icon in Inkscape.
+
+The user will have to download the app from the App Store once it is made available.
 
 
